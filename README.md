@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="Background.png"
+       alt="Portfolio Website Preview"
+       width="700">
+</p>
+
+
 Abdul Mannan Zia — Personal Portfolio Website
 
 Welcome to my personal portfolio website! 👋
