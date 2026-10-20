@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshort.png"
+  <img src="Screenshot.png"
        alt="Portfolio Website Preview"
        width="700">
 </p>
