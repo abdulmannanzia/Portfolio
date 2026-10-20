@@ -5,7 +5,7 @@
 </p>
 
 
-Abdul Mannan Zia — Personal Portfolio Website
+Personal Portfolio Website
 
 Welcome to my personal portfolio website! 👋
 
